@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Uwezostores</string>
+
+    <string-array name="proposals">
+        <item>Proposals</item>
+        <item>proposal1</item>
+        <item>proposal2</item>
+        <item>proposal3</item>
+    </string-array>
+
+    <string-array name="facilities">
+        <item>My Facilities</item>
+        <item>facility1</item>
+        <item>facility2</item>
+        <item>facility3</item>
+    </string-array>
+</resources>

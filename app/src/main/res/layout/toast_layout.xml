@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/toaimage_id"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            />
+
+        <TextView
+            android:id="@+id/toafacilityName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FacilityName" />
+        <TextView
+            android:id="@+id/toafacilityLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FacilityLocation"/>
+        <TextView
+            android:id="@+id/toafacilityCapacity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/toapriceRange"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/toaphoneNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

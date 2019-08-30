@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "982825933388",
+    "firebase_url": "https://stores-675f4.firebaseio.com",
+    "project_id": "stores-675f4",
+    "storage_bucket": "stores-675f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982825933388:android:c49964a094b949e9",
+        "android_client_info": {
+          "package_name": "com.example.shikiliastores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982825933388-lep4n3q97l4vuh0as2g0ft21fh4hib4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shikiliastores",
+            "certificate_hash": "69d10303f4ad6af6fab2d52b9f51c68129152fd0"
+          }
+        },
+        {
+          "client_id": "982825933388-3ftqrkipl735j6nav3scd1k7f30itvkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8b-DycSULcJKSP-WCVEXlnF3B24WDn_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982825933388-3ftqrkipl735j6nav3scd1k7f30itvkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
